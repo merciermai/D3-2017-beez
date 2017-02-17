@@ -1,0 +1,53 @@
+body {
+    font-family: 'Limelight', cursive;
+}
+
+ h2, h3, h4, h5, h6,li ,a{
+  margin: 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  font-family: 'Limelight', cursive;
+
+}
+a {font-size: 1.2em}
+li {font-family: 'Limelight', cursive;
+  text-align: center;
+  margin: 0 auto;
+  color: : #fff
+}
+ul { text-align: center;
+font-size: 1em}
+
+h1 {
+  font-family: 'Limelight', cursive;
+text-align: center;
+  font-size: 3.998em;
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}
+
+h2 {font-size: 2.827em;
+text-align: center;}
+
+h3 {font-size: 1.999em;
+text-align: center;}
+
+h4 {font-size: 1.414em;
+text-align: center;}
+/* Won't be used here */
+
+h5 {
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+}
+
+h6 {
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+}
+
+
+p {margin-bottom: 1.3em;
+text-align: center;}

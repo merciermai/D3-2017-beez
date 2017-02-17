@@ -1,0 +1,80 @@
+/*#### Header elements   ####*/
+
+header {
+  overflow: auto;
+  background: #DCAE1D;
+
+}
+
+#logo {
+  width :100px;
+  float: center;
+  width: center;
+}
+
+nav li {
+    display: inline-flex;;
+}
+
+nav li a {
+  display: block;
+  padding: 1em;
+}
+
+/*#### Styles sur la video   ####*/
+
+video {
+  border : 2em solid #7A9D96;
+border-radius: 4em;
+display: block;
+width: 480px;
+margin: 2em auto;
+}
+
+/*#### Styles pour les navigations dans les pages   ####*/
+
+.page-navigation-block {
+  padding: 1em;
+  background: #00303F;
+  overflow: auto;
+  align-content: space-around;;
+}
+
+.page-navigation-block a {
+  display: block;
+  max-width: 220px;
+  padding: 2em;
+  color: #fff;
+  font-size: 1.5em;
+  justify-content: center;
+  font-weight: bold;
+  align-content: space-around;
+}
+
+.next {
+  float: right;
+}
+
+.previous {
+  float: left;
+}
+
+#ruche {
+  width: 200px;
+  margin: 0 auto;
+}
+
+#ruche img{
+  width: 100%;
+}
+
+
+#abeille {
+    width: 200px;
+    margin: 0 auto;
+}
+
+#abeille img {
+  width: 100%;
+  height: auto;
+}
